@@ -10,7 +10,7 @@ The **TML-DRM method** is implemented in a Python script for generation of SV (s
 ## RH.py
 - The script has the functions required to produce a RH wave a in 2D layered media
 - The simulation takes roughly 6 min to be produced due to the fine mesh considered
-- The script will produce the following animation ![SV wave](RH.gif)
+- The script will produce the following animation ![RH wave](RH.gif)
 
 Author
 ======

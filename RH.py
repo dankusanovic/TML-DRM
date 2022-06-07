@@ -445,6 +445,5 @@ for k in range(150):
     ax.axis([xmin, xmax, ymin, ymax])
     ax.axis('equal')
     plt.draw()
-    plt.savefig("/home/danilo/Documents/DRM/output_"+ str(k) +".png")
     plt.pause(0.1)
     plt.cla()
