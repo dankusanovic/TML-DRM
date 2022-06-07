@@ -1,4 +1,4 @@
-@brief This repository is a complement to the paper *Three-dimensional nonlinear soil–structure interactionfor Rayleigh wave incidence in layered soils* (2022) published in the **Earthquake Engineering & Structural Dynamics**. 
+This repository is a complement to the paper *Three-dimensional nonlinear soil–structure interactionfor Rayleigh wave incidence in layered soils* (2022) published in the **Earthquake Engineering & Structural Dynamics**. 
 
 The **TML-DRM method** is implemented in a Python script for generation of SV (shear-wave) and RH (Rayleigh-wave). The provided scripts are
 
