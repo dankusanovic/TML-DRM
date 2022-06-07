@@ -2,15 +2,16 @@
 
 The **TML-DRM method** is implemented in a Python script for generation of SV (shear-wave) and RH (Rayleigh-wave). The provided scripts are
 
-##SV.py
+## SV.py
 - The script has the functions required to produce a SV wave a in 2D layered media\n
 - The script will produce the following animation ![SV wave](SV.gif)
 
-##RH.py
+## RH.py
 - The script has the functions required to produce a SV wave a in 2D layered media
 - The script will produce the following animation ![SV wave](SV.gif)
 
-@author
+Author
+======
 
 - Kien T. Nguyen (kiennguyen@alumni.caltech.edu)
 - Danilo S. Kusanovic (danilo.kusanovic@usm.cl)
